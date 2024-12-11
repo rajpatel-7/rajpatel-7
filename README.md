@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **Data Structure, Javascript, Java, SQL, C, HTML, CSS**
 
-- 📫 How to reach me **princevbhanderi@gmail.com**
+- 📫 How to reach me **rajvekariya58@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
