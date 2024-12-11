@@ -1,7 +1,4 @@
 
-<p align = "center">
-	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
-</p>
 
 ![MasterHead](https://img.freepik.com/free-vector/programmer-typographic-header-idea-coding-testing-writing-program-using-internet-different-software-website-development-optimization-isolated-vector-illustration_613284-970.jpg?t=st=1723043645~exp=1723047245~hmac=d8bf2ec64cf6a0946fcd940bbd4f8dfdce07813090aa9c074eae47be60ae897f&w=1380)
 <h1 align="center">Hi 👋, I'm Raj Vekariya</h1>
