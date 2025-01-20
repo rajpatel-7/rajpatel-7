@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Raj Vekariya</h1> <h3 align="center">A passionate developer from Rajkot</h3> <img align = "right" alt = "Coding" width = "400" src = "https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajpatel-7&label=Profile%20views&color=0e75b6&style=flat" alt="rajpatel-7" /> </p>
-🌱 I’m currently learning Flutter,Phython,Database Management
+🌱 I’m currently learning Flutter,Python,Database Management
 
 💬 Ask me about Data Structure, Javascript, Java, SQL, C, HTML, CSS
 
