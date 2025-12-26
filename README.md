@@ -18,7 +18,7 @@ src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/
 
 ---
 
-## 👨‍💻 Professional Summary (Recruiter Friendly)
+## 👨‍💻 Professional Summary
 - 🎓 Software Developer with strong foundations in **Data Structures & Algorithms**
 - 🤖 Hands-on experience with **Machine Learning & Deep Learning workflows**
 - 🧠 Skilled in **Model Training, Feature Engineering & Evaluation**
@@ -70,11 +70,11 @@ src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/
 
 ## 🌐 Connect With Me
 <p align="left">
-<a href="https://www.linkedin.com/in/dhairya-bhatt-9292a0273" target="_blank">
+<a href="www.linkedin.com/in/raj-vekariya-49147a357" target="_blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
 height="30" width="40" />
 </a>
-<a href="https://www.instagram.com/dhairya_429" target="_blank">
+<a href="https://www.instagram.com/rajvekariya__7" target="_blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
 height="30" width="40" />
 </a>
