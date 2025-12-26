@@ -1,8 +1,104 @@
-<h1 align="center">Hi 👋, I'm Raj Vekariya</h1> <h3 align="center">A passionate developer from Rajkot</h3> <img align = "right" alt = "Coding" width = "400" src = "https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajpatel-7&label=Profile%20views&color=0e75b6&style=flat" alt="rajpatel-7" /> </p>
-🌱 I’m currently learning Flutter,Python,Database Management
+<h1 align="center">Hi 👋, I'm Raj Vekariya</h1>
 
-💬 Ask me about Data Structure, Javascript, Java, SQL, C, HTML, CSS
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=1000&color=6A5ACD&center=true&vCenter=true&width=750&lines=Software+Developer+%7C+ML+%26+Deep+Learning+Enthusiast;Advanced+.NET+%7C+Flutter+%7C+Backend+Developer;Turning+Data+Into+Intelligent+Solutions;Building+Scalable%2C+Production-Ready+Applications" />
+</p>
 
-📫 How to reach me rajvekariya58@gmail.com
+<p align="center">
+💡 I design intelligent systems, build scalable APIs, and develop data-driven applications.<br>
+🎯 Actively seeking opportunities in <b>Machine Learning, .NET Backend & Software Engineering</b>
+</p>
 
-<h3 align="left">Connect with me:</h3> <p align="left"> <a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dhairya-bhatt-9292a0273" height="30" width="40" /></a> <a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dhairya_429" height="30" width="40" /></a> </p> <h3 align="left">Languages and Tools:</h3> <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p> <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajpatel-7&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&locale=en&layout=compact" alt="Top languages" /></p> <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=rajpatel-7&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=FFFFFF&icon_color=9B59B6&text_color=C9D1D9" alt="GitHub Stats" /> </div> <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajpatel-7&theme=dark&hide_border=true&background=0D1117&ring=9B59B6&fire=9B59B6&currStreakNum=C9D1D9&currStreakLabel=FFFFFF" alt="GitHub Streak" /> </div> <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" /> change
+<img align="right" alt="Coding" width="420"
+src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=rajpatel-7&label=Profile%20Views&color=6A5ACD&style=flat" />
+</p>
+
+---
+
+## 👨‍💻 Professional Summary (Recruiter Friendly)
+- 🎓 Software Developer with strong foundations in **Data Structures & Algorithms**
+- 🤖 Hands-on experience with **Machine Learning & Deep Learning workflows**
+- 🧠 Skilled in **Model Training, Feature Engineering & Evaluation**
+- 🏗️ Backend developer using **Advanced .NET, REST APIs & Databases**
+- 📊 Passionate about **Data, Automation & Scalable Systems**
+- 🚀 Growth mindset — learning industry-grade tools & architectures
+
+---
+
+## 🧠 ML & Deep Learning Focus
+- 📌 Supervised & Unsupervised Learning
+- 📌 Feature Engineering & Data Preprocessing
+- 📌 Model Evaluation (Accuracy, Precision, Recall, F1)
+- 📌 Logistic Regression, Tree-Based Models
+- 📌 Python for ML Pipelines
+- 📌 Data Visualization & Analysis
+
+---
+
+## 🧱 Advanced .NET & Backend Skills
+- ⚙️ ASP.NET Core Web API
+- 🔐 Authentication & Validation
+- 🧪 Clean Architecture & Layered Design
+- 🗃️ SQL Server / MySQL / MongoDB
+- 🔄 RESTful API Development
+- 📦 Entity Framework Core
+- 🧩 Scalable Backend Design
+
+---
+
+## 🛠️ Tech Stack
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/>
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/>
+</p>
+
+---
+
+## 🌐 Connect With Me
+<p align="left">
+<a href="https://www.linkedin.com/in/dhairya-bhatt-9292a0273" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+height="30" width="40" />
+</a>
+<a href="https://www.instagram.com/dhairya_429" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+height="30" width="40" />
+</a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=rajpatel-7&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rajpatel-7&theme=dark&hide_border=true&background=0D1117"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=rajpatel-7&layout=compact&theme=dark&hide_border=true&bg_color=0D1117"/>
+</p>
+
+---
+
+<p align="center">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" width="500"/>
+</p>
+
+<h3 align="center">⚡ Building Intelligent Systems with Code & Data ⚡</h3>
