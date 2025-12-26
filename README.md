@@ -82,18 +82,6 @@ height="30" width="40" />
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=rajpatel-7&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rajpatel-7&theme=dark&hide_border=true&background=0D1117"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=rajpatel-7&layout=compact&theme=dark&hide_border=true&bg_color=0D1117"/>
-</p>
 
 ---
 
