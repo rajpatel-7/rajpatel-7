@@ -70,7 +70,7 @@ src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/
 
 ## 🌐 Connect With Me
 <p align="left">
-<a href="www.linkedin.com/in/raj-vekariya-49147a357" target="_blank">
+<a href="https://www.linkedin.com/in/raj-vekariya-49147a357/" target="_blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
 height="30" width="40" />
 </a>
